@@ -1,0 +1,9 @@
+K'Nex green rod
+	mass 450 mg
+	diameter 6.8 mm at fat part (0.267 inch)
+
+Assume single stack feed for now
+	20 rods -> 136 mm (5.35 inch), 9 grams (0.02 lb)
+	10 rods -> 68 mm (2.67 inch), weigh 4.5 grams (0.01 lb)
+
+	Use constant force coil spring from McMaster-Carr (9293K111). Provides 0.37 lbs of force
